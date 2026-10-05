@@ -1,0 +1,1 @@
+"""WaterWise AI backend package."""
